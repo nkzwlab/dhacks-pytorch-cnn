@@ -1,4 +1,4 @@
-# pytorch-sample
+# dhacks-pytorch-cnn
 ι208研究室の `(0, 0)` と `(13, 12)` の2地点をCNNで分類する、ディープラーニングモデルです。
 サンプルは Python 3.10 と PyTorch 2.1.1 によって構築されています。
 
@@ -8,8 +8,8 @@
 ## 環境構築
 1. GitHubからクローンして、ディレクトリに移動します。
 ```
-git clone https://github.com/sakusaku3939/pytorch-sample.git
-cd pytorch-sample
+git clone https://github.com/nkzwlab/dhacks-pytorch-cnn.git
+cd dhacks-pytorch-cnn
 ```
 <br>
 
